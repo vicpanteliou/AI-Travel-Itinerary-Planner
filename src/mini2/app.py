@@ -262,10 +262,10 @@ class TravelAgent:
         # {state['days']}-Day Itinerary for {state['city']}
 
         ## Day 1: [Weather]
-        - **Morning (9:00-12:00)**: [Activity with specific place name]
-        - **Lunch (12:00-13:30)**: [Restaurant name and cuisine type]
-        - **Afternoon (13:30-17:00)**: [Activity with specific place name]
-        - **Evening (17:00-20:00)**: [Activity/Dinner with specific place name]
+        - **Morning**: [Activity with specific place name]
+        - **Lunch**: [Restaurant name and cuisine type]
+        - **Afternoon**: [Activity with specific place name]
+        - **Evening**: [Activity/Dinner with specific place name]
         - **Weather**: [Expected conditions and recommendations]
         - **Backup Plan**: [Alternative if weather is bad]
 

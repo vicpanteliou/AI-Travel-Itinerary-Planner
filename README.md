@@ -1,4 +1,4 @@
-# MiniProject2 - The AI Travel Itinerary Planner
+# MiniProject2 - The AI Travel Itinerary Planner - Solution Code
 
 AI travel agent that creates weather-aware itineraries using LangGraph.
 
