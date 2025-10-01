@@ -2,6 +2,8 @@
 .env
 .env.local
 
+*.Identifier
+
 # Python
 __pycache__/
 *.py[cod]

@@ -290,7 +290,7 @@ class TravelAgent:
 if __name__ == "__main__":
     agent = TravelAgent(max_search_iterations=2)
 
-    user_request = "I want to go to Warsaw for 5 days. i want recommendations for restaurants, bars and attractions. Also maybe a day for hiking"
+    user_request = "I want to go to Kyoto for 5 days. i want recommendations for restaurants, bars and attractions. Also maybe a day for hiking"
     itinerary = asyncio.run(agent.plan_trip(user_request))
 
     print("\n=== FINAL RESULT ===")
